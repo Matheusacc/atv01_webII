@@ -1,0 +1,36 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.btn-cadastro {
+  width: 100% ;
+  margin-bottom: 2rem;
+  padding: 0.5rem !important;
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+}
+
+.separador {
+  color: #c3c3c3;
+  margin: 2rem 0;
+}
+
+.btn-pers {
+  background-color:black; 
+}
+
